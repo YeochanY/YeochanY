@@ -1,6 +1,6 @@
 ## Hi, I'm Yeochan 👋
 
-- Currently, I am in Master's program in Applied Data Science at The University of Chicago
+- Currently, I'm in Master's program in Applied Data Science at The University of Chicago
 - I worked as Data Scientist in San Jose from 2022-2023
 - I worked as Software Engineer in San Jose from 2021- 2022
 
