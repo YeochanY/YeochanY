@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Yeochan 👋
+
+- Currently, I am in Master's program in Applied Data Science at The University of Chicago
+- I worked as Data Scientist in San Jose from 2022-2023
+- I worked as Software Engineer in San Jose from 2021- 2022
+
+## Academics
+- The University of Chicago | M.S.Applied Data Science | Expected Dec 2025
+- University of Wisconsin-Madison | B.S. Computer Sciences | Dec 2020 
+
 
 <!--
 **YeochanY/YeochanY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
