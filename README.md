@@ -5,7 +5,7 @@
 - I worked as Data Scientist in San Jose from 2022-2023
 - I worked as Software Engineer in San Jose from 2021- 2022
 
-## Academics
+## Education
 - The University of Chicago | M.S.Applied Data Science | Expected Dec 2025
 - University of Wisconsin-Madison | B.S. Computer Sciences | Dec 2020 
 
